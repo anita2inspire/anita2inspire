@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anita2inspire
-- 👀 I’m interested in The Word and coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me nambuuzaanita3@gmail.com
+A student of life passionate about changing this world and making meaningful presence in the tech world to advance society and empower young people.
+I love solving problems.
+Bsc Comp Science, Minor in Communications and Rhetoric
+anita2inspireug@gmail.com
 
 <!---
 anita2inspire/anita2inspire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
