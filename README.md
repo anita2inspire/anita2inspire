@@ -1,6 +1,9 @@
 A student of life passionate about changing this world and making meaningful presence in the tech world to advance society and empower young people.
+
 I love solving problems.
-Bsc Comp Science, Minor in Communications and Rhetoric
+
+Bsc Comp Science, Minor in Communications and Rhetoric - UBCO
+
 anita2inspireug@gmail.com
 
 <!---
